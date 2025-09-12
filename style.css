@@ -121,7 +121,7 @@ body {
     font-size: 1.8rem;
     margin-bottom: 25px;
     color: #007bff;
-    margin-top: 30%;
+    margin-top: 20%;
 }
 
 .skills-logo {
@@ -162,7 +162,7 @@ body {
     font-size: 2rem;
     margin-bottom: 30px;
     color: #007bff;
-    margin-top: 20%;
+    margin-top: 15%;
 }
 
 .project-cards {
@@ -202,7 +202,7 @@ body {
     font-size: 2rem;
     margin-bottom: 20px;
     color: #007bff;
-    margin-top: 20%;
+    margin-top: 15%;
 }
 
 .education-main .para {
@@ -256,7 +256,7 @@ body {
 .certification-header h1 {
     font-size: 2rem;
     color: #38bdf8;
-    margin-top: 20%;
+    margin-top: 17%;
 }
 
 .certification-header h1::after {
@@ -367,3 +367,4 @@ body {
         padding: 40px 8%;
     }
 }
+
