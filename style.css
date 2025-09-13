@@ -162,7 +162,7 @@ body {
     font-size: 2rem;
     margin-bottom: 30px;
     color: #007bff;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 .project-cards {
@@ -367,4 +367,5 @@ body {
         padding: 40px 8%;
     }
 }
+
 
